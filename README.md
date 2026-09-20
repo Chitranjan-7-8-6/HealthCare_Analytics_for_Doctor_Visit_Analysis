@@ -1,6 +1,6 @@
 # Healthcare Analytics for Doctor Visits
 
-AICTE DIY Project — a data analytics case study on what drives doctor visits, built by **Neeraj** (BCA, Sri Ram Kishun P.G College, Gokul, Karsada, Varanasi).
+AICTE DIY Project — a data analytics case study on what drives doctor visits, built by **Chitranjan Vishwakarma** (BCA, Sri Ram Kishun P.G College, Gokul, Karsada, Varanasi).
 
 ## Project Overview
 
@@ -34,7 +34,6 @@ Survey data recording doctor visits over a 2-week period, along with demographic
 | File | Description |
 |---|---|
 | `healthcare_analytics_doctor_visits.ipynb` | Main Jupyter notebook — full analysis, code, charts, and write-up |
-| `healthcare_analytics_doctor_visits.pdf` | PDF export of the executed notebook, for quick reading/submission |
 | `Healthcare_Analytics_DIY_Project.pptx` | Filled AICTE submission slide deck (7 slides) |
 | `Healthcare_Analytics_for_Doctor_Visits.csv` | Source dataset |
 | `README.md` | This file |
