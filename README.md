@@ -45,9 +45,6 @@ Survey data recording doctor visits over a 2-week period, along with demographic
 3. **Statistical Testing**
    - Independent t-test: are visit differences between genders statistically significant?
    - Chi-square test: is having a limiting chronic condition related to having private insurance?
-4. **Predictive Modeling**
-   - **Poisson Regression** (via `statsmodels`) — the right tool for modeling count data like visits, which is heavily skewed toward zero.
-   - **Random Forest Regressor** (via `scikit-learn`) — a second, independent model to cross-check which features matter most.
 
 ## Key Findings
 
