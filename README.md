@@ -60,15 +60,14 @@ Survey data recording doctor visits over a 2-week period, along with demographic
 - **Python** (pandas, NumPy) — data loading, cleaning, manipulation
 - **Matplotlib & Seaborn** — visualizations
 - **SciPy** — statistical hypothesis testing (t-test, chi-square)
-- **Statsmodels** — Poisson Regression modeling
 - **Scikit-learn** — Random Forest regression, train/test split, evaluation metrics
-- **Jupyter Notebook** — end-to-end analysis environment
+- **VS Code** — end-to-end analysis environment
 
 ## How to Run
 
 1. Install the dependencies:
    ```bash
-   pip install pandas numpy matplotlib seaborn scipy statsmodels scikit-learn jupyter
+   pip install pandas numpy matplotlib seaborn scipy scikit-learn jupyter
    ```
 2. Make sure `Healthcare_Analytics_for_Doctor_Visits.csv` is in the same folder as the notebook.
 3. Launch and run all cells:
