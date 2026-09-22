@@ -34,7 +34,7 @@ Survey data recording doctor visits over a 2-week period, along with demographic
 | File | Description |
 |---|---|
 | `healthcare_analytics_doctor_visits.ipynb` | Main Jupyter notebook — full analysis, code, charts, and write-up |
-| `Healthcare_Analytics_DIY_Project.pptx` | Filled AICTE submission slide deck (7 slides) |
+| `Healthcare_Analytics_DIY_Project.pptx` | Filled AICTE submission slide deck (6 slides) |
 | `Healthcare_Analytics_for_Doctor_Visits.csv` | Source dataset |
 | `README.md` | This file |
 
