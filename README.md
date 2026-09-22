@@ -75,11 +75,3 @@ Survey data recording doctor visits over a 2-week period, along with demographic
    jupyter notebook healthcare_analytics_doctor_visits.ipynb
    ```
 
-## Recommendations
-
-- Hospitals/clinics could use illness and health-score signals to **flag high-risk patients early** rather than waiting for a visit.
-- Insurance companies could design **targeted plans for older patients and those with chronic conditions**, since these groups reliably drive up visit frequency.
-- Public health campaigns could focus on the **~80% "zero visit" segment**, especially in lower-income brackets where free government insurance is available but may be underused.
-
----
-*Dataset: Healthcare Analytics for Doctor Visits (Australian Health Survey data) — analyzed as part of the AICTE DIY Project.*
